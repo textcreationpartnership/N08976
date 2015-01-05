@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <body>
          <div type="notice">
-            <pb facs="tcp:0F837513B4D3BA38:011459_0000_0F832EAB7B59AE08"/>
-            <pb facs="tcp:0F837513B4D3BA38:011459_0001_0F832EAC173D3FD0"/>
+            <pb facs="unknown:011459_0000_0F832EAB7B59AE08"/>
+            <pb facs="unknown:011459_0001_0F832EAC173D3FD0"/>
             <head>A seasonable ADVERTISEMENT to the <hi>Free<g ref="char:EOLhyphen"/>holders</hi>
 and <hi>Freemen</hi> of the City of <hi>New-York,</hi>
 and all the real Friends to Liberty,
